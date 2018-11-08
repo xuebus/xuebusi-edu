@@ -1,0 +1,11 @@
+﻿document.write ('<script type="text/javascript"  src="../js/users51la.js"></script>');
+document.writeln("<script>");
+document.writeln("var _hmt = _hmt || [];");
+document.writeln("(function() {");
+document.writeln("  var hm = document.createElement(\'script\');");
+document.writeln("  hm.src = \'https://hm.baidu.com/hm.js?0bbe7f9e2ade3dec191028e82d8024ba\';");
+document.writeln("  var s = document.getElementsByTagName(\'script\')[0]; ");
+document.writeln("  s.parentNode.insertBefore(hm, s);");
+document.writeln("})();");
+document.writeln("</script>");
+document.writeln("");

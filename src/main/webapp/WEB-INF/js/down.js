@@ -1,0 +1,1 @@
+﻿document.writeln("<a href=\'http://www.oo96.com/?3atv\' target=\'_blank\'>下载专区</a>");

@@ -22,6 +22,12 @@ public class CourseController {
     @RequestMapping(value = "/play")
     public String play() {
         System.out.println("播放页");
-        return "play";
+        return "detail";
+    }
+
+    @RequestMapping(value = "/m3u8")
+    public String m3u8() {
+        System.out.println("播放页");
+        return "m3u8/index";
     }
 }

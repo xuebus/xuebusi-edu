@@ -1,0 +1,1 @@
+var mac_flag='play',mac_link='/m3u8', mac_name='学不死的程序员--只要学不死，就往死里学',mac_from='m3u8',mac_server='no',mac_note='',mac_url=unescape('https%3A%2F%2F3atvplay.com%2F20181109%2FitDCJDOf%2Findex.m3u8');

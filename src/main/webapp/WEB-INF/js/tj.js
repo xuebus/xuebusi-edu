@@ -1,4 +1,4 @@
-﻿document.write ('<script type="text/javascript"  src="../js/users51la.js"></script>');
+﻿document.write ('<script type="text/javascript"  src="https://js.users.51.la/19567559.js"></script>');
 document.writeln("<script>");
 document.writeln("var _hmt = _hmt || [];");
 document.writeln("(function() {");
